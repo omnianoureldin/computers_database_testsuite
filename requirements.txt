@@ -1,0 +1,4 @@
+nose
+nose-progressive
+nose_parameterized==0.3.3
+selenium
