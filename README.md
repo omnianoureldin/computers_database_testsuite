@@ -1,14 +1,10 @@
 Computers Database Test-suite
 =============================
-This a test-suite that tests CRUD operations for a sample `Computer Database application`_.
-
-.. _Computer Database application: http://computer-database.herokuapp.com/computers
+This a test-suite that tests CRUD operations for a sample [Computer Database application](http://computer-database.herokuapp.com/computers).
 
 Test specs
 ----------
-Please check complete Specs_.
-
-.. _Specs: https://docs.google.com/spreadsheets/d/1xskKBplJmHsNRqGZuFkFHUjHWOBmY_rkWJEsfVM8hpo/edit?usp=sharing
+Please check complete [Specs](https://docs.google.com/spreadsheets/d/1xskKBplJmHsNRqGZuFkFHUjHWOBmY_rkWJEsfVM8hpo/edit?usp=sharing).
 
 Quickstart
 ----------
